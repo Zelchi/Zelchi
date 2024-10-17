@@ -1,4 +1,4 @@
-# 💡 Zelchi - Tech & Dev
+# 💡 Zelchi
 
 ## 🎓 Sobre mim:
 
