@@ -15,7 +15,7 @@ Sou desenvolvedor de software com um ano de estudos na Alura e atualmente estou 
   <img align="start" alt="Rafa-Csharp" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
 </br>
-<p align="center">
+<p align="start">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Zelchi&show_icons=true&theme=tokyonight" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zelchi&theme=tokyonight&layout=compact&langs_count=8&card_width=320" />
