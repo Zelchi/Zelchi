@@ -1,8 +1,8 @@
 # 💡 Zelchi - Tech & Dev
 
-## Sobre mim:
+## 🎓 Sobre mim:
 
-Sou desenvolvedor de software com um ano de estudos na Alura e atualmente estou cursando Bacharelado em Engenharia de Software 🎓, com foco no desenvolvimento back-end ⚙️ e no aprendizado contínuo de novas ferramentas e linguagens 📚.
+Sou desenvolvedor de software com um ano de estudos na Alura e atualmente estou cursando Bacharelado em Engenharia de Software, com foco no desenvolvimento back-end e no aprendizado contínuo de novas ferramentas e linguagens.
 
 ## 💻 Tecnologias:
 
