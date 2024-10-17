@@ -16,8 +16,10 @@ Sou desenvolvedor de software com um ano de estudos na Alura e atualmente estou 
 </br>
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Zelchi&show_icons=true&theme=tokyonight" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zelchi&theme=tokyonight&layout=compact&langs_count=8&card_width=320" />
   <img height="170" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Zelchi&repo=Sistema_de_reservas&theme=tokyonight" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img height="170" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Zelchi&repo=Jupiter&theme=tokyonight" />
 </p>
 
