@@ -13,7 +13,6 @@ Sou desenvolvedor de software com um ano de estudos na Alura e atualmente estou 
     <img align="start" alt="Rafa-Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="start" alt="Rafa-HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="start" alt="Rafa-CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="start" alt="Rafa-Csharp" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     <img align="start" alt="Rafa-Csharp" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg">
   </div>
   </br>
