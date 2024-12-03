@@ -19,6 +19,7 @@ Sou desenvolvedor de software com um ano de estudos na Alura e atualmente estou 
   </br>
   <div align="center">
     <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zelchi&theme=tokyonight&layout=compact&langs_count=8&card_width=320" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Zelchi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   </div>
 </div>
 
