@@ -2,7 +2,7 @@
 
 ## 🎓 Sobre mim
 
-Sou desenvolvedor de software com um ano de estudos na Alura e atualmente estou cursando Bacharelado em Engenharia de Software. Meu foco principal é o desenvolvimento back-end, além do aprendizado contínuo de novas ferramentas e linguagens.
+Sou desenvolvedor de software com um ano de estudos na Alura e atualmente estou me Graduando em Engenharia de Software.
 
 ## 💻 Tecnologias
 
