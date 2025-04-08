@@ -1,5 +1,3 @@
-# 💡 Zelchi
-
 ## 🎓 Sobre mim
 
 Sou desenvolvedor de software com um ano de estudos na Alura e atualmente estou me Graduando em Engenharia de Software.
