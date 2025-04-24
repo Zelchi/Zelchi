@@ -1,8 +1,4 @@
-## 🎓 Sobre mim
-
-Sou desenvolvedor de software com um ano de estudos na Alura e atualmente estou me Graduando em Engenharia de Software.
-
-## 💻 Tecnologias
+--- 
 
 <div align="center">
 <div align="center">
@@ -33,11 +29,10 @@ Sou desenvolvedor de software com um ano de estudos na Alura e atualmente estou 
   <img alt="Firebase" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg">
   <img alt="Docker" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
-  
-</br>
-
+<br/>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zelchi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false" height="150" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zelchi&show_icons=true&theme=tokyonight" height="150" />
 </div>
 
-</div>
+---
