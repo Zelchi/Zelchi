@@ -15,11 +15,21 @@ Sou desenvolvedor de software com um ano de estudos na Alura e atualmente estou 
   <img title="Axios" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/axios/axios-plain.svg">
 </div>
 <div align="center">
+  <img title="Github" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  <img title="Git" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img title="Redux" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
   <img alt="Firebase" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg">
   <img alt="Docker" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img alt="SQLite" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
   <img alt="Electron.js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
+</div>
+<div align="center">
+  <img title="VSCode" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  <img title="NestJS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+  <img title="Prisma" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
+  <img title="C-Sharp" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /> 
+  <img title="Svelte" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" /> 
+  <img title="Svelte" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
 </div>
   
 </br>
