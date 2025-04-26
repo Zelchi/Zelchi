@@ -1,3 +1,9 @@
+
+<div align="center">
+ <p>💻 Estudante de Engenharia de Software apaixonado por tecnologia, com foco em desenvolvimento back-end.</p>
+ <p> 📚  Interesse em desenvolvimento web, back end.</p>
+ </div>
+
 --- 
 
 <div align="center">
@@ -31,10 +37,12 @@
   <img alt="Firebase" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg">
   <img alt="Docker" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
+
+---
+
 <br/>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zelchi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false" height="150" alt="Linguagens mais usadas" />
   <img src="https://github-readme-stats.vercel.app/api?username=Zelchi&show_icons=true&theme=tokyonight" height="150" />
 </div>
-
----
+  
