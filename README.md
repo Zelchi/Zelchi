@@ -20,8 +20,8 @@
       <br>NestJS
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="48" height="48" alt="Prisma" />
-      <br>Prisma
+      <img src="https://i.imgur.com/pngRa3S.png" width="48" height="48" alt="Prisma" />
+      <br>TypeORM
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="48" height="48" alt="GraphQL" />
