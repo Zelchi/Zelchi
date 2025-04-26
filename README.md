@@ -1,8 +1,7 @@
 
 
 <div align="center">
-  <h3>Estudante de Engenharia de Software</h2>
-  <p>Com foco em desenvolvimento web e back-end</p>
+  <h1>Engenharia de Software | Desenvolvimento Web e Back-end</h1>
 </div>
 
 
