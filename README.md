@@ -20,7 +20,7 @@
       <br>NestJS
     </td>
     <td align="center" width="96">
-      <img src="https://i.imgur.com/pngRa3S.png" width="48" height="48" alt="Prisma" />
+      <img src="https://i.imgur.com/pngRa3S.png" width="48" height="48" alt="TypeORM" />
       <br>TypeORM
     </td>
     <td align="center" width="96">
