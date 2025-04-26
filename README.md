@@ -1,6 +1,4 @@
-<table align="center">
- <tr>
-<td>
+
 
 <div align="center">
   <h3>Estudante de Engenharia de Software</h2>
@@ -120,6 +118,3 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Zelchi&show_icons=true&theme=tokyonight" />
 </div>
 
-</td>
-</tr>
-</table>
