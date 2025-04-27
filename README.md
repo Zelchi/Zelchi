@@ -7,27 +7,27 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       <br>TypeScript
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
       <br>Node.js
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="48" height="48" alt="NestJS" />
       <br>NestJS
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <img src="https://i.imgur.com/pngRa3S.png" width="48" height="48" alt="TypeORM" />
       <br>TypeORM
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="48" height="48" alt="GraphQL" />
       <br>GraphQL
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="48" height="48" alt="RabbitMQ" />
       <br>RabbitMQ
     </td>
@@ -39,7 +39,7 @@
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="48" height="48" alt=".NET Core" />
-      <br>.NET
+      <br>.NET Core
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
@@ -107,7 +107,7 @@
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="48" height="48" alt="Visual Studio" />
-      <br>VS
+      <br>Visual Studio
     </td>
   </tr>
 </table>
