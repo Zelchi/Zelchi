@@ -39,7 +39,7 @@
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="48" height="48" alt=".NET Core" />
-      <br>.NET Core
+      <br>.NET
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
