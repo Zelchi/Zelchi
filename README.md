@@ -1,5 +1,5 @@
 <div align="center">
- <h1>Engenharia de Software | Desenvolvimento Web e Back-end</h1>
+ <h1>Engenheiro de Software</h1>
 </div>
 
 ### Linguagens de Programação
