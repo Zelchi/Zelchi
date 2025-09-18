@@ -20,6 +20,11 @@
       <br>
       <small>C#</small>
     </td>
+   <td align="center" valign="top" width="100">
+      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" />
+      <br>
+      <small>Java</small>
+    </td>
   </tr>
 </table>
 
@@ -62,11 +67,6 @@
 ### Desenvolvimento Front-end
 <table>
   <tr>
-   <td align="center" valign="top" width="100">
-      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS" />
-      <br>
-      <small>Next</small>
-    </td>
     <td align="center" valign="top" width="100">
       <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" />
       <br>
@@ -76,6 +76,11 @@
       <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" />
       <br>
       <small>Redux</small>
+    </td>
+    <td align="center" valign="top" width="100">
+      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS" />
+      <br>
+      <small>Next</small>
     </td>
     <td align="center" valign="top" width="100">
       <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" />
@@ -174,6 +179,11 @@
       <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" />
       <br>
       <small>VSCode</small>
+    </td>
+   <td align="center" valign="top" width="100">
+      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg" alt="Rider" />
+      <br>
+      <small>Rider</small>
     </td>
   </tr>
 </table>
