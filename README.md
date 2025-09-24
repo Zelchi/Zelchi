@@ -113,6 +113,11 @@
       <br>
       <small>MySQL</small>
     </td>
+   <td align="center" valign="top" width="100">
+      <img height="40" width="40" src="https://github.com/gilbarbara/logos/blob/main/logos/typeorm.svg" alt="TypeORM" />
+      <br>
+      <small>TypeORM</small>
+    </td>
     <td align="center" valign="top" width="100">
       <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="Prisma" />
       <br>
