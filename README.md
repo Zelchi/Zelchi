@@ -2,6 +2,8 @@
  <h1>Engenheiro de Software</h1>
 </div>
 
+<div align="center">
+ 
 ### Linguagens de Programação
 <table>
   <tr>
@@ -147,6 +149,7 @@
     </td>
   </tr>
 </table> 
+</div>
 
 ---
 
