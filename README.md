@@ -57,6 +57,16 @@
 </table>
 <table>
   <tr>
+       <td align="center" valign="top" width="100">
+      <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" />
+      <br>
+      <small>HTML5</small>
+    </td>
+    <td align="center" valign="top" width="100">
+      <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" />
+      <br>
+      <small>CSS3</small>
+    </td>
     <td align="center" valign="top" width="100">
       <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" />
       <br>
@@ -66,16 +76,6 @@
       <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS" />
       <br>
       <small>Next</small>
-    </td>
-    <td align="center" valign="top" width="100">
-      <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" />
-      <br>
-      <small>HTML5</small>
-    </td>
-    <td align="center" valign="top" width="100">
-      <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" />
-      <br>
-      <small>CSS3</small>
     </td>
   </tr>
 </table>
