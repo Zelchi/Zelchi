@@ -15,11 +15,6 @@
       <br>
       <small>JavaScript</small>
     </td>
-    <td align="center" valign="top" width="100">
-      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" />
-      <br>
-      <small>C#</small>
-    </td>
    <td align="center" valign="top" width="100">
       <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" />
       <br>
@@ -52,11 +47,6 @@
       <small>Nest</small>
     </td>
     <td align="center" valign="top" width="100">
-      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" />
-      <br>
-      <small>.NET</small>
-    </td>
-    <td align="center" valign="top" width="100">
       <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" />
       <br>
       <small>RabbitMQ</small>
@@ -73,11 +63,6 @@
       <small>React</small>
     </td>
     <td align="center" valign="top" width="100">
-      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" />
-      <br>
-      <small>Redux</small>
-    </td>
-    <td align="center" valign="top" width="100">
       <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS" />
       <br>
       <small>Next</small>
@@ -92,11 +77,6 @@
       <br>
       <small>CSS3</small>
     </td>
-    <td align="center" valign="top" width="100">
-      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg" alt="Axios" />
-      <br>
-      <small>Axios</small>
-    </td>
   </tr>
 </table>
 
@@ -107,21 +87,6 @@
       <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" />
       <br>
       <small>PostgreSQL</small>
-    </td>
-     <td align="center" valign="top" width="100">
-      <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" />
-      <br>
-      <small>MySQL</small>
-    </td>
-   <td align="center" valign="top" width="100">
-      <img height="40" width="40" src="https://github.com/gilbarbara/logos/blob/main/logos/typeorm.svg" alt="TypeORM" />
-      <br>
-      <small>TypeORM</small>
-    </td>
-    <td align="center" valign="top" width="100">
-      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="Prisma" />
-      <br>
-      <small>Prisma</small>
     </td>
     <td align="center" valign="top" width="100">
       <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" />
