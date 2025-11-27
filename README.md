@@ -81,12 +81,7 @@
 </table>
 <table>
   <tr>
-    <td align="center" valign="top" width="100">
-      <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" />
-      <br>
-      <small>PostgreSQL</small>
-    </td>
-    <td align="center" valign="top" width="100">
+      <td align="center" valign="top" width="100">
       <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" />
       <br>
       <small>SQLite</small>
@@ -95,6 +90,11 @@
       <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="Firebase" />
       <br>
       <small>Firebase</small>
+    </td>
+   <td align="center" valign="top" width="100">
+      <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" />
+      <br>
+      <small>PostgreSQL</small>
     </td>
   </tr>
 </table>
