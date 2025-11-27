@@ -3,8 +3,6 @@
 </div>
 
 <div align="center">
- 
-### Linguagens de Programação
 <table>
   <tr>
     <td align="center" valign="top" width="100">
@@ -29,8 +27,6 @@
     </td>
   </tr>
 </table>
-
-### Desenvolvimento Back-end
 <table>
   <tr>
     <td align="center" valign="top" width="100">
@@ -55,8 +51,6 @@
     </td>
   </tr>
 </table>
-
-### Desenvolvimento Front-end
 <table>
   <tr>
     <td align="center" valign="top" width="100">
@@ -81,8 +75,6 @@
     </td>
   </tr>
 </table>
-
-### Bancos de Dados
 <table>
   <tr>
     <td align="center" valign="top" width="100">
@@ -102,8 +94,6 @@
     </td>
   </tr>
 </table>
-
-### DevOps, Cloud & Ferramentas
 <table>
   <tr>
     <td align="center" valign="top" width="100">
@@ -128,8 +118,6 @@
     </td>
   </tr>
 </table>
-
-### Ambientes de Desenvolvimento
 <table>
   <tr>
     <td align="center" valign="top" width="100">
