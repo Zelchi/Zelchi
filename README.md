@@ -10,14 +10,14 @@
 <table>
   <tr>
     <td align="center" valign="top" width="100">
-      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" />
-      <br>
-      <small>TypeScript</small>
-    </td>
-    <td align="center" valign="top" width="100">
       <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
       <br>
       <small>JavaScript</small>
+    </td>
+       <td align="center" valign="top" width="100">
+      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" />
+      <br>
+      <small>TypeScript</small>
     </td>
    <td align="center" valign="top" width="100">
       <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" />
