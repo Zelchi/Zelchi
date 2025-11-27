@@ -125,11 +125,6 @@
       <br>
       <small>VSCode</small>
     </td>
-   <td align="center" valign="top" width="100">
-      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg" alt="Rider" />
-      <br>
-      <small>Rider</small>
-    </td>
     <td align="center" valign="top" width="100">
       <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-plain.svg" alt="Fedora" />
       <br>
