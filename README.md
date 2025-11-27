@@ -57,11 +57,6 @@
       <small>.NET</small>
     </td>
     <td align="center" valign="top" width="100">
-      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" />
-      <br>
-      <small>GraphQL</small>
-    </td>
-    <td align="center" valign="top" width="100">
       <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" />
       <br>
       <small>RabbitMQ</small>
