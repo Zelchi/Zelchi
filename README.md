@@ -3,6 +3,10 @@
 </div>
 
 <div align="center">
+<img src="https://www.codewars.com/users/Zelchi/badges/large">
+</div>
+
+<div align="center">
 <table>
   <tr>
     <td align="center" valign="top" width="100">
