@@ -110,11 +110,6 @@
       <small>Git</small>
     </td>
     <td align="center" valign="top" width="100">
-      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" />
-      <br>
-      <small>GitHub</small>
-    </td>
-    <td align="center" valign="top" width="100">
       <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" />
       <br>
       <small>Docker</small>
@@ -128,16 +123,6 @@
       <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" />
       <br>
       <small>Linux</small>
-    </td>
-    <td align="center" valign="top" width="100">
-      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="Jest" />
-      <br>
-      <small>Jest</small>
-    </td>
-     <td align="center" valign="top" width="100">
-      <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron.js" />
-      <br>
-      <small>Electron.js</small>
     </td>
   </tr>
 </table>
