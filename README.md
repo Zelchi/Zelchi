@@ -20,11 +20,6 @@
       <small>TypeScript</small>
     </td>
    <td align="center" valign="top" width="100">
-      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" />
-      <br>
-      <small>Java</small>
-    </td>
-   <td align="center" valign="top" width="100">
       <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="Go" />
       <br>
       <small>Go</small>
