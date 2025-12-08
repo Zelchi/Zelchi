@@ -134,8 +134,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zelchi&layout=compact&theme=tokyonight&langs_count=6" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Zelchi&show_icons=true&theme=tokyonight" />
-</div>
