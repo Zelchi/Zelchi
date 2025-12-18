@@ -52,15 +52,10 @@
 </table>
 <table>
   <tr>
-       <td align="center" valign="top" width="100">
-      <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" />
-      <br>
-      <small>HTML5</small>
-    </td>
     <td align="center" valign="top" width="100">
-      <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" />
+      <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidjs/solidjs-original.svg" alt="solidjs" />
       <br>
-      <small>CSS3</small>
+      <small>Solid</small>
     </td>
     <td align="center" valign="top" width="100">
       <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" />
