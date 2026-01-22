@@ -34,7 +34,7 @@
       <small>Node.js</small>
     </td>
     <td align="center" valign="top" width="100">
-      <img height="40" width="40" src="https://camo.githubusercontent.com/22af51bfdd427abe0d70f49f954604f6695c461cf0082d7573e6e01f49f15180/68747470733a2f2f69636f6e2e69636570616e656c2e696f2f546563686e6f6c6f67792f706e672d736861646f772d3531322f457870726573732e706e67" alt="Express" />
+      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
       <br>
       <small>Express</small>
     </td>
