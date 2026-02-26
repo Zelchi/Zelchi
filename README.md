@@ -91,6 +91,11 @@
       <br>
       <small>PostgreSQL</small>
     </td>
+    <td align="center" valign="top" width="100">
+      <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="Prisma" />
+      <br>
+      <small>Prisma</small>
+    </td>
   </tr>
 </table>
 <table>
