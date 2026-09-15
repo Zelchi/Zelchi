@@ -25,9 +25,9 @@
       <small>Go</small>
    </td>
    <td align="center" valign="top" width="100">
-      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="Lua" />
+      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" />
       <br>
-      <small>Lua</small>
+      <small>Rust</small>
    </td>
   </tr>
 </table>
