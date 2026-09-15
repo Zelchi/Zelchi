@@ -73,9 +73,9 @@
       <small>React</small>
     </td>
     <td align="center" valign="top" width="100">
-      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS" />
+      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="Angular" />
       <br>
-      <small>Next</small>
+      <small>Angular</small>
     </td>
   </tr>
 </table>
