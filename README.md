@@ -97,9 +97,9 @@
       <small>PostgreSQL</small>
     </td>
     <td align="center" valign="top" width="100">
-      <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="Prisma" />
+      <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" />
       <br>
-      <small>Prisma</small>
+      <small>Redis</small>
     </td>
   </tr>
 </table>
