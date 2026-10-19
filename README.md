@@ -7,138 +7,148 @@
 </div>
 
 <div align="center">
-<table>
+<table width="540">
   <tr>
-    <td align="center" valign="top" width="100">
-      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
+    <td align="center" valign="middle" width="135" height="76">
+      <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" alt="JavaScript" />
       <br>
       <small>JavaScript</small>
     </td>
-       <td align="center" valign="top" width="100">
-      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" />
+    <td align="center" valign="middle" width="135" height="76">
+      <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" alt="TypeScript" />
       <br>
       <small>TypeScript</small>
     </td>
-   <td align="center" valign="top" width="100">
-      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="Go" />
+    <td align="center" valign="middle" width="135" height="76">
+      <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Go_gopher_favicon.svg" alt="Go" />
       <br>
       <small>Go</small>
-   </td>
-   <td align="center" valign="top" width="100">
-      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" />
+    </td>
+    <td align="center" valign="middle" width="135" height="76">
+      <img height="40" width="40" src="https://cdn.simpleicons.org/rust/474747/EDEDED" alt="Rust" />
       <br>
       <small>Rust</small>
-   </td>
+    </td>
   </tr>
 </table>
-<table>
+<table width="540">
   <tr>
-    <td align="center" valign="top" width="100">
-      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" />
+    <td align="center" valign="middle" width="135" height="76">
+      <img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/5FA04E" alt="Node.js" />
       <br>
       <small>Node.js</small>
     </td>
-    <td align="center" valign="top" width="100">
-      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+    <td align="center" valign="middle" width="135" height="76">
+      <img height="40" width="40" src="https://cdn.simpleicons.org/express/474747/EDEDED" alt="Express" />
       <br>
       <small>Express</small>
     </td>
-    <td align="center" valign="top" width="100">
-      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS" />
+    <td align="center" valign="middle" width="135" height="76">
+      <img height="40" width="40" src="https://cdn.simpleicons.org/nestjs/E0234E" alt="Nest" />
       <br>
       <small>Nest</small>
     </td>
-    <td align="center" valign="top" width="100">
-      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" />
+    <td align="center" valign="middle" width="135" height="76">
+      <img height="40" width="40" src="https://cdn.simpleicons.org/rabbitmq/FF6600" alt="RabbitMQ" />
       <br>
       <small>RabbitMQ</small>
     </td>
   </tr>
 </table>
-<table>
+<table width="540">
   <tr>
-    <td align="center" valign="top" width="100">
-      <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidjs/solidjs-original.svg" alt="solidjs" />
+    <td align="center" valign="middle" width="135" height="76">
+      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidjs/solidjs-original.svg" alt="Solid" />
       <br>
       <small>Solid</small>
     </td>
-    <td align="center" valign="top" width="100">
-      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" />
+    <td align="center" valign="middle" width="135" height="76">
+      <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" />
       <br>
       <small>React</small>
     </td>
-    <td align="center" valign="top" width="100">
-      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="Angular" />
+    <td align="center" valign="middle" width="135" height="76">
+      <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/67/Angular_gradient_logo.png" alt="Angular" />
       <br>
       <small>Angular</small>
     </td>
-    <td align="center" valign="top" width="100">
-      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" alt="Astro" />
+    <td align="center" valign="middle" width="135" height="76">
+      <img height="40" width="40" src="https://cdn.simpleicons.org/astro/FF5D01" alt="Astro" />
       <br>
       <small>Astro</small>
     </td>
   </tr>
 </table>
-<table>
+<table width="540">
   <tr>
-      <td align="center" valign="top" width="100">
-      <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" />
+    <td align="center" valign="middle" width="135" height="76">
+      <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" alt="SQLite" />
       <br>
       <small>SQLite</small>
     </td>
-    <td align="center" valign="top" width="100">
-      <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="Firebase" />
+    <td align="center" valign="middle" width="135" height="76">
+      <img height="40" width="40" src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" />
       <br>
-      <small>Firebase</small>
+      <small>MongoDB</small>
     </td>
-   <td align="center" valign="top" width="100">
-      <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" />
+    <td align="center" valign="middle" width="135" height="76">
+      <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" />
       <br>
       <small>PostgreSQL</small>
     </td>
-    <td align="center" valign="top" width="100">
-      <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" />
+    <td align="center" valign="middle" width="135" height="76">
+      <img height="40" width="40" src="https://cdn.simpleicons.org/redis/FF4438" alt="Redis" />
       <br>
       <small>Redis</small>
     </td>
   </tr>
 </table>
-<table>
+<table width="540">
   <tr>
-    <td align="center" valign="top" width="100">
-      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
+    <td align="center" valign="middle" width="135" height="76">
+      <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" />
       <br>
       <small>Git</small>
     </td>
-    <td align="center" valign="top" width="100">
-      <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" />
+    <td align="center" valign="middle" width="135" height="76">
+      <img height="40" width="40" src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" />
       <br>
       <small>Docker</small>
     </td>
-    <td align="center" valign="top" width="100">
-      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" />
+    <td align="center" valign="middle" width="135" height="76">
+      <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Amazon_Web_Services_2025.svg" alt="AWS" />
       <br>
       <small>AWS</small>
     </td>
-    <td align="center" valign="top" width="100">
-      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" />
+    <td align="center" valign="middle" width="135" height="76">
+      <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" />
       <br>
       <small>Linux</small>
     </td>
   </tr>
 </table>
-<table>
+<table width="540">
   <tr>
-    <td align="center" valign="top" width="100">
-      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" />
+    <td align="center" valign="middle" width="135" height="76">
+      <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VSCode" />
       <br>
       <small>VSCode</small>
     </td>
-    <td align="center" valign="top" width="100">
-      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-plain.svg" alt="Fedora" />
+    <td align="center" valign="middle" width="135" height="76">
+      <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/41/Fedora_icon_(2021).svg" alt="Fedora" />
       <br>
       <small>Fedora</small>
     </td>
+    <td align="center" valign="middle" width="135" height="76">
+      <img height="40" width="40" src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/codex-color.svg" alt="Codex" />
+      <br>
+      <small>Codex</small>
+    </td>
+    <td align="center" valign="middle" width="135" height="76">
+      <img height="40" width="40" src="https://raw.githubusercontent.com/anomalyco/opencode-zed-extension/main/icons/opencode.svg" alt="OpenCode" />
+      <br>
+      <small>OpenCode</small>
+    </td>
   </tr>
-</table> 
+</table>
 </div>
